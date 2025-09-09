@@ -1,33 +1,9 @@
-Table of Contents
-
-1. Introduction	2
-2. User Stories	2
-3. Wireframe Designs	4
-4. Database Design	6
-4.1 ER Diagram	6
-4.2 Database Description	7
-5. Software Architecture	11
-5.1 Software Components	11
-5.2 Data Flow Design	13
-5.3 Class Diagram	13
-Model Class Descriptions	14
-6. AI Component Description	15
-6.1 AI Component Usage Table	15
-7. Platforms/languages/tools/frameworks	16
-8. Comprehensive Test Plan	18
-8.1 User Acceptance Test Cases	18
-9. Evidence of Setup	19
-9.1 Version Control	19
-9.2 Project Tracking	19
-10. Conclusion	19
-
- 
 1. Introduction
 In today's digital era, health and wellbeing are becoming increasingly important to individuals. However, most fitness applications demand pricey memberships or rely on generic information that may not satisfy individual fitness objectives (Stephenson et al. 2018). The team is working on a fitness-focused mobile app called Vytal.AI. It will be a smart fitness companion application for mobile devices that employs generative AI to give users with individualized exercise routines and health recommendations based on their fitness objectives, as well as integrated financial assistance for the business, through affiliated shopping features. 
 This report serves as a technical design plan documentation for this project. User stories will be defined, followed by detailed design documentation of the database and the software architecture. Finally a test plan will be provided and evidence of the team project setup will be shared.
 2. User Stories
 User Registration & Authentication
-1.	The user will like to register using their email and password, so that he/she can create a personalized fitness profile.
+1.	As a new user, I want to register using my email and password, so that I can create a personalized fitness profile.
 2.	As a returning user, I want to log in using my registered credentials, so that I can access my personalized workout and diet plans.
 AI-Generated Fitness Plan
 3.	As a user, I want to input my fitness goal, available workout days, and time per day, so that the app can generate a 7-day personalized workout plan.
@@ -227,7 +203,7 @@ UAT-05	As a user, I want the app to work smoothly	Test navigation, buttons, and 
 9. Evidence of Setup
 9.1 Version Control
 A new GIT repository is created for this purpose that will allow the maintained and access of code across various version control accessibility features, among the team members.
-<GitHub Screenshot Here>
+ 
 9.2 Project Tracking
  
  
@@ -235,7 +211,7 @@ A new GIT repository is created for this purpose that will allow the maintained 
 Trello, a visual project management and collaboration tool, is being used for project tracking. It provides an intuitive board and card system that enables the team to easily organise, assign, and monitor tasks among the four group members throughout the development phase. This ensures clear visibility of progress, responsibilities, and deadlines during the entire project lifecycle.
 
 10. Conclusion
-Hence, in conclusion it can be stated that Vytal.AI is a well-organized cross-platform fitness app that uses AI to make tailored health programs and suggest products. The solution, which is supported by contemporary architecture, user-centered design, and a strong technology stack, is scalable, intelligent, and ready to improve digital well-being in a smart, accessible way. This document can successfully suffice as the detailed design documentation for the final development phase of the project to commence as needed.
+Hence, in conclusion it can be stated that Vytal.AI is a well-organized cross-platform fitness app that uses AI to make tailored health programs and suggest products. The solution, which is supported by contemporary architecture, user-centred design, and a strong technology stack, is scalable, intelligent, and ready to improve digital well-being in a smart, accessible way. This document can successfully suffice as the detailed design documentation for the final development phase of the project to commence as needed.
  
 References
 Stephenson, J., Heslehurst, N., Hall, J., Schoenaker, D.A., Hutchinson, J., Cade, J.E., Poston, L., Barrett, G., Crozier, S.R., Barker, M. and Kumaran, K., 2018. Before the beginning: nutrition and lifestyle in the preconception period and its importance for future health. The Lancet, 391(10132), pp.1830-1841.
