@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 10: Work in Progress
 ## Overview
 Week 10 continues the intensive development phase with all project activities under constant review and progression.
@@ -22,3 +23,6 @@ Week 10 continues the intensive development phase with all project activities un
 - ✅ **Testing Integration**: Ongoing testing of completed components  
 - ✅ **Progress Validation**: Regular assessment of work completion
 - ✅ **Team Coordination**: Maintained collaboration and communication
+=======
+
+>>>>>>> f215dfc (Initial commit)

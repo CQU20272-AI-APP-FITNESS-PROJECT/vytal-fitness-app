@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weekly Study Plan - Mid Term Break Period
 ## Overview
 This week represents a **mid term break period** where continued progress on the capstone project is maintained despite the academic break.
@@ -26,4 +27,6 @@ This week represents a **mid term break period** where continued progress on the
   - Update documentation to reflect recent changes
   - Ensure proper branch management
   - Tag significant milestones if applicable
+=======
+>>>>>>> f215dfc (Initial commit)
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Week 4: System Requirements & Architecture
 
 ### System Requirements Development
@@ -16,3 +17,6 @@
 ### System Architecture
 - Based on user access patterns, select an appropriate architecture (e.g., client-server, peer-to-peer).
 - Justify your architecture with respect to project requirements.
+=======
+
+>>>>>>> f215dfc (Initial commit)

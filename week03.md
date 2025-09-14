@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Week 3: Configuration Management & Git Version Control
 
 ### Key Concepts
@@ -31,4 +32,6 @@
 
 **Resources:**
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+=======
+>>>>>>> f215dfc (Initial commit)
 

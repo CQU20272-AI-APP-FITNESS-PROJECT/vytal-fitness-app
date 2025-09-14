@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This Is week| 
 
 # Week 1 – Capstone Project Workshop Activities
@@ -52,3 +53,6 @@ This Is week|
 ---
 
 *This structure documents your team’s initial organization, planning, and individual professional development focus for Week 1.*
+=======
+
+>>>>>>> f215dfc (Initial commit)

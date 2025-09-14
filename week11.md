@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 11: Project Wrap-Up
 ## Overview
 Week 11 represents the **final preparation phase** of the capstone project, focusing on consolidating all work completed and preparing for the final presentation. This week emphasizes project closure activities, comprehensive progress review, and presentation practice.
@@ -42,3 +43,6 @@ Week 11 represents the **final preparation phase** of the capstone project, focu
   - Finalize remaining tasks and timeline
   - Plan for final submission requirements
   - Discuss lessons learned and project reflecti
+=======
+
+>>>>>>> f215dfc (Initial commit)

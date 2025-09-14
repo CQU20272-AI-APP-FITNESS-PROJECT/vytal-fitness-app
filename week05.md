@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Week 5: UML, UI, Database, and Communication
 
 ### Class Identification & UML Class Diagrams
@@ -18,4 +19,6 @@
 ### Client-Server Communication
 - Identify communication requirements for data exchange (client to server and vice versa).
 - Define modules/responsibilities for managing this interaction.
+=======
+>>>>>>> f215dfc (Initial commit)
 

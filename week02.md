@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Week 2: Requirements, Planning, and Agile Setup
 
 ### Requirements Analysis
@@ -20,4 +21,6 @@
 ### Skills Development
 - Research potential career paths of interest.
 - Use SFIA (Skills Framework for the Information Age) mapping to create a personal development plan for requisite skills.
+=======
+>>>>>>> f215dfc (Initial commit)
 
