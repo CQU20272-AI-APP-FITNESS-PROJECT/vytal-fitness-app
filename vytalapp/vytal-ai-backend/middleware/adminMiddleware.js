@@ -1,0 +1,9 @@
+const admin = (req, res, next) => {
+    if (req.user && req.user.role === 'admin') {
+        next();
+    } else {
+        res.status(403).json({ msg: 'Forbidden: Admin access required' });
+    }
+};
+
+export default admin;
