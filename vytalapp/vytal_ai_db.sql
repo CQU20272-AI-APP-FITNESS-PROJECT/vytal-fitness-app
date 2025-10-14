@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 06, 2025 at 01:16 PM
+-- Generation Time: Oct 14, 2025 at 04:27 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -121,9 +121,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `fullName`, `email`, `password`, `role`, `primaryGoal`, `createdAt`, `otp`, `otp_expires`) VALUES
-(1, 'Admin User', 'adminvytalai@gmail.com', '$2a$10$vsMdfgVFt96gDG3LpC0EpOs9NAgE0xhMab1YzAvGpSjkcjYFyW2c2', 'admin', 'Not set', '2025-09-26 10:36:19', NULL, NULL),
-(2, 'John Doe', 'fogafo8711@noidos.com', '$2a$10$AQhcnJxWZvGaD8G6B45CCu8djmhAXspsEYtC8yJZ.oaFCubTiIwfu', 'user', 'Weightloss', '2025-09-26 11:27:42', NULL, NULL),
-(3, 'Kelly M. Cox', 'kcox@mail.com', '$2a$10$KSVJZisWCTCSOoLEN38ATeYeTu/z2rDRHuwbPalYvnvJAtJsn6MEi', 'user', 'Gain Muscle', '2025-09-26 21:40:43', NULL, NULL);
+(1, 'Admin User', 'Harif7335@gmail.com	\r\n', '$2a$10$vsMdfgVFt96gDG3LpC0EpOs9NAgE0xhMab1YzAvGpSjkcjYFyW2c2', 'admin', 'Not set', '2025-09-26 10:36:19', '552041', '2025-10-14 02:14:36'),
+(2, 'hamza', 'hamza.arif@cqumail.com ', '$2a$10$AQhcnJxWZvGaD8G6B45CCu8djmhAXspsEYtC8yJZ.oaFCubTiIwfu', 'user', 'Weightloss', '2025-09-26 11:27:42', NULL, NULL),
+(3, 'Kelly M. Cox', 'kcox@mail.com', '$2a$10$KSVJZisWCTCSOoLEN38ATeYeTu/z2rDRHuwbPalYvnvJAtJsn6MEi', 'user', 'Gain Muscle', '2025-09-26 21:40:43', NULL, NULL),
+(7, 'sucil', 'sucilbhandari11@gmail.com', '$2a$10$MgElW0fRYsV//xQp/fP5bOplGWlZIFm23MjwtedMrYiy1mp8hwO1.', 'user', 'Not set', '2025-10-13 14:57:08', NULL, NULL);
 
 -- --------------------------------------------------------
 
@@ -204,7 +205,7 @@ ALTER TABLE `product_clicks`
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- AUTO_INCREMENT for table `user_activity`
